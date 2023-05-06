@@ -8,3 +8,12 @@ body{
 img{
     text-align: center;
 }
+
+h1{
+    margin: auto;
+    color: red;
+}
+
+h2{
+    margin: auto;
+}
